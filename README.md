@@ -1,2 +1,11 @@
-# website-fun
-Let's make a website
+# Dan Marquis
+Hey it's Dan
+
+
+## About this website
+This is our website, there are many like it but this one is mine.
+
+### How to setup this website
+This link will show you how to use the website [www.google.com](google.com)
+
+### Why would I use this website
