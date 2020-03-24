@@ -6,3 +6,13 @@ p {
 h1{
     text-decoration: underline
 }
+
+#big-image {
+    Height:200;
+    Width: 200;
+}
+
+#small-image {
+    height:200;
+    width:200;
+}
