@@ -11,5 +11,5 @@ This link will show you how to use the website [www.google.com](google.com)
 ### Why would I use this website
 1. It's awesome
 2. You should
-3. Refer to #1 and #2
-  * Sub-bullet
+3. Refer to #1 and #2 
+* Sub-bullet
