@@ -6,9 +6,9 @@ Let's make a website
 
 
 #### So you're Quarantined...What Now?
-Item 1 Buy Tolet Paper (Shits going to go fast_
-Item 2 Steal everyone elses tolet paper
-Item 2a Fuck them thats why 
+1. Buy Toilet Paper (Shits going to go fast_
+2. Steal everyone elses toilet paper
+* Fuck them thats why 
 
 
 ##### BITCHESSSS!!!!!
