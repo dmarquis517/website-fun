@@ -5,7 +5,7 @@ Let's make a website
 ### What is the Meaning of Life?
 
 
-#### So your Quarantined...What Now?
+#### So you're Quarantined...What Now?
 
 
 
