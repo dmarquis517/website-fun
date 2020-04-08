@@ -13,3 +13,8 @@ h1 {
     display: block;
 }
 
+.input-group {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
