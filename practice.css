@@ -8,11 +8,17 @@ h1{
 }
 
 #big-image {
-    Height:200;
-    Width: 200;
+    Height:300px;
+    Width: 600px;
 }
 
 #small-image {
-    height:200;
-    width:200;
+    height:200px;
+    width:200px;
+    display: block 
+}
+
+.input-group {
+    margin-top: 10px;
+    margin-left: 10px;
 }
